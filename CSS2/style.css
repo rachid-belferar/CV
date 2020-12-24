@@ -1,0 +1,32 @@
+body {
+	background-color: #eaf6f6;
+}
+
+h1,
+h3 {
+	/* color: #66bfbf; */
+	color: #11999c;
+}
+h4 {
+	color: #11999c;
+}
+
+hr {
+	background-color: white;
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	height: 0px;
+	width: 5%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #eaf6f6;
+}
+
+.profile_1 {
+	border-radius: 5%;
+	border: solid 1px #66bfbf;
+}
